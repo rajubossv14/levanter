@@ -1,6 +1,6 @@
 {
   "session1": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "levanter_2163dc9d1ba9ea4bbc945e0c78664c8141",
     "PREFIX": "^[.,!]",
     "SUDO": "0",
     "STICKER_PACKNAME": "❤️,LyFE",
@@ -33,11 +33,11 @@
     "CMD_REACTION": "true"
   },
   "session2": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "levanter_2163dc9d1ba9ea4bbc945e0c78664c8141",
     "PREFIX": "null"
   },
   "session3": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "levanter_2163dc9d1ba9ea4bbc945e0c78664c8141",
     "PREFIX": ".."
   }
 }
